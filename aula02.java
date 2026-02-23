@@ -17,7 +17,7 @@ public class aula02 {
 
             System.out.println("Você ainda não pode tirar carteira de motorista!");
         }
-        if idade < 16) {
+        if (idade < 16) {
 
             System.out.println("Você não pode votar!");
 
