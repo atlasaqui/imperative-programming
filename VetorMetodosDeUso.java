@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Vetor03 {
+public class VetorMetodosDeUso {
     public static final int TAM = 10; // Reduzi para 10 para facilitar seu teste visual
     public static final int MIN = 1;
     public static final int MAX = 50; // Aumentei o MAX para o método "Sem Repetição" funcionar
